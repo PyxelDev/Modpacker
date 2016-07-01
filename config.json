@@ -1,0 +1,8 @@
+{
+  "repo":{
+    "1.7.10":"http://bot.notenoughmods.com/1.7.10.json",
+    "1.6.4":"http://bot.notenoughmods.com/1.6.4.json",
+    "1.8.0":"http://bot.notenoughmods.com/1.8.json"
+  },
+  "modpack-folder":"modpacks/"
+}
